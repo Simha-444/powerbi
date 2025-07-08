@@ -78,5 +78,9 @@ This project serves as a **beginner-level introduction** to Power BI. The source
 
 *   **More Robust Data Standardisation:** Implementing more advanced techniques, potentially using **Excel or SQL** for thorough standardisation of free-text entries (e.g., combining all variations of "SQL" or "Software Engineer").
 *   **In-depth Analysis:** Creating more complex analyses and visualizations based on deeper insights from the data.
+# 📊 Dashboard & Visualizations
 
-Feel free to explore the data and build upon this foundation to create your own unique and advanced dashboards!
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot]("C:\Users\singa\OneDrive\Desktop\Screenshot 2025-07-07 201053.png")
+
