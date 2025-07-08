@@ -82,5 +82,5 @@ This project serves as a **beginner-level introduction** to Power BI. The source
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot]("C:\Users\singa\OneDrive\Desktop\Screenshot 2025-07-07 201053.png")
+![Dashboard Screenshot](https://github.com/Simha-444/powerbi/blob/b211898abe877704dcffe677c658bc9ff5a370c1/final%20Dashboard.png)
 
